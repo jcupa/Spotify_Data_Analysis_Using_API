@@ -1,8 +1,8 @@
 # Extract & Analyze Spotify Data using Spotify API
-Exploring Spotify API
+\
+<img src="https://1000marcas.net/wp-content/uploads/2019/12/Spotify-logotipo.jpg">
 
-<img src="https://1000marcas.net/wp-content/uploads/2019/12/Spotify-logotipo.jpg width=100 height=100">
-
+\
 **Libraries Used:** 
 Spotify API for Developers, Pandas, Seaborn, Numpy 
 
@@ -17,7 +17,7 @@ I extracted values for each singer like followers, popularity (Spotify's Rating)
 
 **What I have learned so far from this project:**
 
-- How to create access token
+- How to create an access token
 - Extract the Data using Spotify's API
 - Convert the collected data into Pandas dataframe
 - Perform data analysis and visualization task using different python libraries
