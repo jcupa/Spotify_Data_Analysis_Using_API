@@ -1,8 +1,9 @@
 # Extract & Analyze Spotify Data using Spotify API
-\
+<br>
 <img src="https://1000marcas.net/wp-content/uploads/2019/12/Spotify-logotipo.jpg">
 
-\
+<br>
+
 **Libraries Used:** 
 Spotify API for Developers, Pandas, Seaborn, Numpy 
 
